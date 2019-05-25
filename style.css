@@ -1,0 +1,21 @@
+.left{
+    background-color: #701172;
+    width: 198px;
+    height: 100%;
+    
+}
+.intro{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 220px;
+    margin-right: 100px;
+}
+.fa-bell{
+    margin-right: 60px;
+}
+    .container{
+        height: 100%;
+    }
+
+    
